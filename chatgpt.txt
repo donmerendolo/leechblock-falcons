@@ -2,4 +2,4 @@ chatgpt.com
 claude.ai
 gemini.google.com
 perplexity.ai
-google.com/**udm=50**
+google.*+/**udm=50**
