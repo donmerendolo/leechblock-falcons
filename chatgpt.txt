@@ -3,3 +3,4 @@ claude.ai
 gemini.google.com
 perplexity.ai
 google.*+/**udm=50**
+dashnet.org
